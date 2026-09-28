@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="AI SVG Studio banner.png" alt="AI SVG Studio banner" width="100%">
+</p>
+
+
 # 🎨 AI SVG Studio
 
 > An AI-powered design studio that transforms natural-language prompts into professional, scalable SVG banners and infographics.
